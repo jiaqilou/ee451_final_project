@@ -1,5 +1,5 @@
 class Graph {
-private:
+public:
       int** adjacencyMatrix;
       int vertexCount;
 public:
